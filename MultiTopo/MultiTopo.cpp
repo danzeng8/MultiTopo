@@ -11414,7 +11414,7 @@ int main(int argc, char** argv)
 						auto neighbours = adjacent_vertices(i, levelGraphs[l]);
 						for (auto u : make_iterator_range(neighbours)) {
 							if (origLvlNodes[l][(int)u].type == CUT && top.levels[l].origNodes[(int)u].inFg == 0) {
-								cout << "contradiction" << endl;
+							//	cout << "contradiction" << endl;
 							}
 						}
 					}
@@ -11434,8 +11434,8 @@ int main(int argc, char** argv)
 					bestContra = i;
 					bestContraScore = diff;
 				}
-				cout << top.contradictions[i].l1 << " " << top.contradictions[i].n1 << " " <<
-					top.contradictions[i].l2 << " " << top.contradictions[i].n2 << endl;
+				//cout << top.contradictions[i].l1 << " " << top.contradictions[i].n1 << " " <<
+					//top.contradictions[i].l2 << " " << top.contradictions[i].n2 << endl;
 				inContra[{top.contradictions[i].l1, top.contradictions[i].n1}] = true;
 				inContra[{top.contradictions[i].l2, top.contradictions[i].n2}] = true;
 			}
@@ -11446,15 +11446,15 @@ int main(int argc, char** argv)
 				map<vector<int>, bool> inBestContra;
 				inBestContra[{cTop.l1, cTop.n1}] = true;
 				inBestContra[{cTop.l2, cTop.n2}] = true;
-				cout << "best " << cTop.l1 << " " << cTop.n1 << endl;
+				//cout << "best " << cTop.l1 << " " << cTop.n1 << endl;
 			}
-			cout << (inBestContra.find({ 2, 17 }) != inBestContra.end()) << endl;
 			//cout << "best contra " << endl;
 			for (int l = 0; l < shapes.size(); l++) {
 				uint16 spp, bpp, photo;
 				int i, j;
 				uint16 page;
 				string filenameState = outFile + to_string(statesPopped) + "_" + to_string(l) + "State.tif";
+				//cout << filenameState << endl;
 				TIFF* out = TIFFOpen(filenameState.c_str(), "w");
 				if (!out)
 				{
@@ -11502,13 +11502,13 @@ int main(int argc, char** argv)
 										if (top.levels[l].origNodes[label].type == CORE) {
 											//cout << "2" << endl;
 											data[i + j * width] = 19;
-											cout << "cut constrained to be 1 " << endl;
+										//	cout << "cut constrained to be 1 " << endl;
 										}
 										else {
 											if (top.levels[l].origNodes[label].type == N) {
 												//cout << "3" << endl;
 												data[i + j * width] = 18;
-												cout << "cut constrained to be 0 " << endl;
+												//cout << "cut constrained to be 0 " << endl;
 											}
 											else {
 												if (top.levels[l].origNodes[label].inFg == 1) {
@@ -11528,14 +11528,14 @@ int main(int argc, char** argv)
 										if (top.levels[l].origNodes[label].type == CORE) {
 											//cout << "5" << endl;
 											data[i + j * width] = 15;
-											cout << "fill constrained to be 1 " << endl;
+											//cout << "fill constrained to be 1 " << endl;
 										}
 										else {
 											//cout << "6" << endl;
 											if (top.levels[l].origNodes[label].type == N) {
 
 												data[i + j * width] = 14;
-												cout << "fill constrained to be 0 " << endl;
+												//cout << "fill constrained to be 0 " << endl;
 											}
 											else {
 												if (top.levels[l].origNodes[label].inFg == 1) {
@@ -11551,10 +11551,11 @@ int main(int argc, char** argv)
 									//cout << "8" << endl;
 									int label1 = (int)label;
 									if (inContra.find({ l, label1 }) != inContra.end()) {
-										cout << "9" << endl;
+										//cout << "9" << endl;
 										if (top.levels[l].origNodes[label].inFg == 1) {
 											if (((int)origLvlNodes[l][label].type) == CUT) {
 												data[i + j * width] = 11;
+												cout << 
 											}
 											else { //FILL
 												data[i + j * width] = 10;
@@ -11576,14 +11577,9 @@ int main(int argc, char** argv)
 									if (top.contradictions.size() > 0) {
 										Contradiction cTop = top.contradictions[bestContra];
 
-										if (l == 2 && (int)label == 17) {
-											cout << "best contra " << cTop.l1 << " " << cTop.n1 << " " << (l == cTop.l1) << " " <<
-												((int)label == cTop.n1) << 
-												endl;
-										}
 										if(((l == cTop.l1) && ((int)label == cTop.n1)) || ((l == cTop.l2) && ((int)label == cTop.n2))) {
 											//if (inBestContra.find({ l, (int)label }) != inBestContra.end()) {
-												cout << "in best contra? " << l << " " << i << " " << j << endl;
+												//cout << "in best contra? " << l << " " << i << " " << j << endl;
 												if (top.levels[l].origNodes[label].inFg == 1) {
 
 													if (((int)origLvlNodes[l][label].type) == CUT) {

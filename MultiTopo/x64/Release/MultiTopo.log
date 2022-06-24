@@ -1,594 +1,594 @@
 ﻿  MultiTopo.cpp
   Unknown compiler version - please run the configure tests and report the results
-C:\Users\danzeng\source\repos\MultiTopo\third_party\dapcstp\include\bbnode.h(17,16): warning C4244: 'initializing': conversion from 'double' to 'weight_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\third_party\dapcstp\include\bbtree.h(119,20): warning C4244: 'initializing': conversion from 'double' to 'weight_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(367,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(387,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(425,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(536,14): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(536,16): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(536,18): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(548,20): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\third_party\dapcstp\include\bbnode.h(17,16): warning C4244: 'initializing': conversion from 'double' to 'weight_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\third_party\dapcstp\include\bbtree.h(119,20): warning C4244: 'initializing': conversion from 'double' to 'weight_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(367,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(387,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(425,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(536,14): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(536,16): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(536,18): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(548,20): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(548,38): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(548,38): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(548,56): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(548,56): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(607,14): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(607,16): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(607,18): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(623,20): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(607,14): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(607,16): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(607,18): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(623,20): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(623,38): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(623,38): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(623,56): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(623,56): warning C4838: conversion from '_Ty' to 'short' requires a narrowing conversion
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(970,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(970,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(970,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(975,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(975,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(975,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1025,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1025,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1025,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1111,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1111,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1111,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1116,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1116,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1116,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1163,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1163,34): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1163,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(1315,53): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2026,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2157,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2167,17): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2197,18): warning C4244: '*=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2213,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2213,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2234,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2234,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2257,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2257,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2277,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2277,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2582,105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2618,105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2752,66): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(970,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(970,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(970,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(975,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(975,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(975,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1025,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1025,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1025,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1111,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1111,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1111,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1116,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1116,36): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1116,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1163,31): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1163,34): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1163,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(1315,53): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2026,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2157,13): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2167,17): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2197,18): warning C4244: '*=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2213,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2213,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2234,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2234,92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2257,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2257,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2277,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2277,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2582,105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2618,105): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2752,66): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2768,67): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2768,67): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2785,108): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2785,145): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2943,44): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2785,108): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2785,145): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2943,44): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2953,99): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2953,99): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2964,108): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(2964,145): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3070,9): warning C4244: 'return': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3096,12): warning C4244: '=': conversion from 'float' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3172,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2964,108): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(2964,145): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3070,9): warning C4244: 'return': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3096,12): warning C4244: '=': conversion from 'float' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3172,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3180,80): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3180,80): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3188,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3188,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3196,86): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3196,86): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3204,70): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3204,70): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3214,70): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3214,70): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3218,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3238,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3218,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3238,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3249,87): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3249,87): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3272,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3272,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3283,87): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3283,87): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3287,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3319,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3287,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3319,40): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3329,92): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3329,92): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3364,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3364,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3374,93): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3374,93): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3421,36): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3421,36): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3427,31): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3427,31): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3447,88): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3447,88): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3477,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3477,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3487,93): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3487,93): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3510,36): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3510,36): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3515,71): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3515,71): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3538,88): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3538,88): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3566,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3566,41): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3575,93): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3575,93): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3602,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3602,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3610,80): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3610,80): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3617,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3617,83): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3625,86): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3625,86): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3634,108): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3634,108): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3643,108): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3643,108): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3725,9): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3726,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3725,9): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3726,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3727,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(3829,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4067,3): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4170,14): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4187,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4270,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4303,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4328,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4358,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4387,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4417,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4603,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4624,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4698,31): warning C4305: '=': truncation from '__int64' to 'int'
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4698,20): warning C4309: '=': truncation of constant value
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4752,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4752,167): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3727,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(3829,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4067,3): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4170,14): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4187,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4270,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4303,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4328,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4358,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4387,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4417,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4603,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4624,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4698,31): warning C4305: '=': truncation from '__int64' to 'int'
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4698,20): warning C4309: '=': truncation of constant value
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4752,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4752,167): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
           with
           [
               _Ty=weight_t
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4864,25): warning C4244: 'argument': conversion from 'double' to 'weight_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4866,19): warning C4244: 'argument': conversion from 'double' to 'weight_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4961,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(4984,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5207,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5219,75): warning C4267: 'argument': conversion from 'size_t' to 'Value', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4864,25): warning C4244: 'argument': conversion from 'double' to 'weight_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4866,19): warning C4244: 'argument': conversion from 'double' to 'weight_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4961,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(4984,14): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5207,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5219,75): warning C4267: 'argument': conversion from 'size_t' to 'Value', possible loss of data
           with
           [
               Value=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5249,1): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5250,1): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5296,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5572,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5591,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5593,56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5598,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5600,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5606,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5608,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5614,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5615,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5617,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5694,9): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5695,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5249,1): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5250,1): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5296,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5572,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5591,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5593,56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5598,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5600,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5606,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5608,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5614,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5615,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5617,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5694,9): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5695,35): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5696,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5743,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5745,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5747,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5749,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5761,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5763,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5765,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5767,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5791,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5793,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5795,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5797,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5808,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5810,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5812,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5814,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5856,95): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5856,186): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5902,73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(5904,66): warning C4267: 'argument': conversion from 'size_t' to 'Value', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5696,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5743,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5745,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5747,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5749,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5761,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5763,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5765,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5767,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5791,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5793,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5795,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5797,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5808,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5810,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5812,20): warning C4244: 'initializing': conversion from 'int64_t' to 'double', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5814,46): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5856,95): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5856,186): warning C4267: '*=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5902,73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(5904,66): warning C4267: 'argument': conversion from 'size_t' to 'Value', possible loss of data
           with
           [
               Value=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6148,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6148,109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6159,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6159,106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6175,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6175,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6186,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6186,108): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6267,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6417,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6452,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6488,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6148,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6148,109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6159,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6159,106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6175,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6175,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6186,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6186,108): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6267,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6417,2): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6452,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6488,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6489,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6489,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6490,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6490,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6491,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6491,41): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6496,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6496,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6497,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6497,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6498,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6498,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6499,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6499,41): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6549,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6550,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6551,138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6672,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6673,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6673,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6750,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6751,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6759,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6789,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6869,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6896,9): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6908,17): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6933,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6960,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6972,18): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7142,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7157,25): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7157,29): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7157,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7208,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7246,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7275,35): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6549,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6550,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6551,138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6672,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6673,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6673,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6750,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6751,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6759,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6789,23): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6869,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6896,9): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6908,17): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6933,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6960,10): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6972,18): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7142,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7157,25): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7157,29): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7157,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7208,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7246,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7275,35): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
           with
           [
               _Rep=double
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7897,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7909,32): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7897,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7909,32): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
           with
           [
               _Rep=double
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7952,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7966,25): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7966,29): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(7966,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8018,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8024,32): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7952,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7966,25): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7966,29): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(7966,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8018,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8024,32): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
           with
           [
               _Rep=double
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8054,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8065,34): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8054,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8065,34): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
           with
           [
               _Rep=double
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8608,120): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8747,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8758,32): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8608,120): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8747,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8758,32): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
           with
           [
               _Rep=double
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8766,31): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8766,31): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
           with
           [
               _Rep=double
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8780,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8830,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8934,29): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8780,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8830,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8934,29): warning C4244: '+=': conversion from '_Rep' to 'float', possible loss of data
           with
           [
               _Rep=double
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(8962,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9049,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9050,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9081,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9303,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9326,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9351,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9374,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9386,15): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(8962,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9049,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9050,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9081,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9303,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9326,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9351,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9374,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9386,15): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9394,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9526,75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9529,76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9572,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9619,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9394,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9526,75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9529,76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9572,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9619,26): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9622,15): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9622,15): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9686,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9687,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9696,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9727,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9838,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9839,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9848,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9879,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9944,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9944,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9944,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9992,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10022,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10160,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10193,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10237,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10237,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10237,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10591,45): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9686,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9687,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9696,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9727,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9838,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9839,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9848,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9879,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9944,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9944,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9944,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9992,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10022,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10160,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10193,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10237,33): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10237,37): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10237,41): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10591,45): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10890,52): warning C4244: '=': conversion from 'float' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10892,75): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10929,3): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10962,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10970,14): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10986,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10890,52): warning C4244: '=': conversion from 'float' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10892,75): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10929,3): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10962,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10970,14): warning C4244: '=': conversion from 'int64_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10986,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10987,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10987,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10988,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10988,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10989,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10989,39): warning C4244: '+=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10994,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10994,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10995,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10995,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10996,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10996,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(10997,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(10997,39): warning C4244: '-=': conversion from 'int64_t' to '_Ty', possible loss of data
           with
           [
               _Ty=int
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11031,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11032,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11033,97): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11153,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11430,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11467,21): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11765,38): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11807,20): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11868,20): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(12018,40): warning C4244: '=': conversion from 'const _Ty' to 'uint8_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11031,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11032,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11033,97): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11153,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11430,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11467,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11760,38): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11802,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11863,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(12013,40): warning C4244: '=': conversion from 'const _Ty' to 'uint8_t', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(12021,40): warning C4244: '=': conversion from 'const _Ty' to 'uint8_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(12016,40): warning C4244: '=': conversion from 'const _Ty' to 'uint8_t', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(12024,44): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(12019,44): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(12027,44): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(12022,44): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(12123,43): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(12118,43): warning C4244: '=': conversion from '_Ty' to 'uint8_t', possible loss of data
           with
           [
               _Ty=float
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9534,11): warning C4101: 'page': unreferenced local variable
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(9533,8): warning C4101: 'i': unreferenced local variable
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11456,12): warning C4101: 'page': unreferenced local variable
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11455,9): warning C4101: 'i': unreferenced local variable
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11796,11): warning C4101: 'page': unreferenced local variable
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11795,8): warning C4101: 'i': unreferenced local variable
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11851,11): warning C4101: 'page': unreferenced local variable
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(11850,8): warning C4101: 'i': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9534,11): warning C4101: 'page': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(9533,8): warning C4101: 'i': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11455,12): warning C4101: 'page': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11454,9): warning C4101: 'i': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11791,11): warning C4101: 'page': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11790,8): warning C4101: 'i': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11846,11): warning C4101: 'page': unreferenced local variable
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(11845,8): warning C4101: 'i': unreferenced local variable
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.30133\include\tuple(170,47): warning C4244: 'initializing': conversion from '_Ty' to '_Ty', possible loss of data
           with
           [
@@ -664,15 +664,11 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.29.3013
               _Tag=std::_Unpack_tuple_t,
               _Tpl=std::tuple<int,__int64,int,int,int,int,int,int>
           ]
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6912): message : see reference to function template instantiation 'std::tuple<int,int,int,int,int,int,int,int>::tuple<int,__int64,int,int,int,int,int,int,0>(std::tuple<int,__int64,int,int,int,int,int,int> &&) noexcept' being compiled
-C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.cpp(6912): message : see reference to function template instantiation 'std::tuple<int,int,int,int,int,int,int,int>::tuple<int,__int64,int,int,int,int,int,int,0>(std::tuple<int,__int64,int,int,int,int,int,int> &&) noexcept' being compiled
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6912): message : see reference to function template instantiation 'std::tuple<int,int,int,int,int,int,int,int>::tuple<int,__int64,int,int,int,int,int,int,0>(std::tuple<int,__int64,int,int,int,int,int,int> &&) noexcept' being compiled
+C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo\MultiTopo.cpp(6912): message : see reference to function template instantiation 'std::tuple<int,int,int,int,int,int,int,int>::tuple<int,__int64,int,int,int,int,int,int,0>(std::tuple<int,__int64,int,int,int,int,int,int> &&) noexcept' being compiled
   Generating code
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
-C:\Users\danzeng\source\repos\MultiTopo\third_party\boost_1_62_0\boost\graph\named_function_params.hpp(240): warning C4172: returning address of local variable or temporary
-C:\Users\danzeng\source\repos\MultiTopo\third_party\boost_1_62_0\boost\graph\named_function_params.hpp(240): warning C4172: returning address of local variable or temporary
-C:\Users\danzeng\source\repos\MultiTopo\third_party\boost_1_62_0\boost\graph\named_function_params.hpp(240): warning C4172: returning address of local variable or temporary
-C:\Users\danzeng\source\repos\MultiTopo\third_party\boost_1_62_0\boost\graph\named_function_params.hpp(240): warning C4172: returning address of local variable or temporary
-C:\Users\danzeng\source\repos\MultiTopo\third_party\boost_1_62_0\boost\graph\named_function_params.hpp(240): warning C4172: returning address of local variable or temporary
-  All 7972 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  1 of 7972 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    55 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  MultiTopo.vcxproj -> C:\Users\danzeng\source\repos\MultiTopo\x64\Release\MultiTopo.exe
+  MultiTopo.vcxproj -> C:\Users\danzeng\source\repos\MultiTopo\MultiTopo\MultiTopo.exe
